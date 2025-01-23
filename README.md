@@ -1,7 +1,9 @@
-## Hi there 👋
+## Olá, eu sou o Gustavo 👋
 
-<!--
-**GuFerreiraV/GuFerreiraV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contatos
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gustavoferreiravargens@gmail.com)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuFerreiraV&layout=compact)
 
 Here are some ideas to get you started:
 
