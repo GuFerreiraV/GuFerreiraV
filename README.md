@@ -1,4 +1,10 @@
 # 👨‍💻 Gustavo F. Vargens
+💻 Estagiário em Infraestrutura de Redes, focado em Desenvolvimento Back-end.  
+🚀 Buscando aprimorar minhas habilidades em **C#, ASP.NET e MySQL**.  
+🎯 Objetivo: Trabalhar com desenvolvimento e explorar tecnologias como **AWS**.  
+📚 Estudando **ASP.NET, Entity Framework e .NET 8**.  
+
+<hr>
 
 ## Contatos
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guferreirav/)
@@ -13,7 +19,7 @@
 
 <hr>
 
-### Tecnologias e Ferramentas
+### 🚀 Tecnologias e Ferramentas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -27,7 +33,5 @@
 
 <hr>
 
-![Estatísticas de GuFerreiraV](https://github-readme-stats.vercel.app/api?username=GuFerreiraV&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuFerreiraV&hide_progress=true)
-
-![GitHub followers](https://img.shields.io/github/followers/GuFerreiraV?style=social)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuFerreiraV&hide=issues&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuFerreiraV&layout=compact&bg_color=00000000)
