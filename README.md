@@ -1,8 +1,7 @@
 # 👨‍💻 Gustavo F. Vargens
-💻 Estagiário em Infraestrutura de Redes, focado em Desenvolvimento Back-end.  
-🚀 Buscando aprimorar minhas habilidades em **C#, ASP.NET e MySQL**.  
+🚀 Buscando aprimorar minhas habilidades em **C#, .NET 8 e ASP.NET**.  
 🎯 Objetivo: Trabalhar com desenvolvimento e explorar tecnologias como **AWS**.  
-📚 Estudando **ASP.NET, Entity Framework e .NET 8**.  
+📚 Estudando **.NET 8 e MAUI**.  
 
 <hr>
 
