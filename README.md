@@ -1,6 +1,5 @@
 # 👨‍💻 Gustavo F. Vargens
 🚀 Buscando aprimorar minhas habilidades em **C#, .NET 8 e ASP.NET**.  
-🎯 Objetivo: Trabalhar com desenvolvimento e explorar tecnologias como **AWS**.  
 📚 Estudando **.NET 8 e MAUI**.  
 
 <hr>
