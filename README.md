@@ -1,33 +1,30 @@
-# 👨‍💻 Gustavo F. Vargens
-🚀 Buscando aprimorar minhas habilidades em **C#, .NET 8 e ASP.NET**.  
-📚 Estudando **.NET 8 e MAUI**.  
-
+# 👨‍💻 Olá, me chamo Gustavo
+Tenho dedicado meus estudos intensivamente ao ecossistema Microsoft, abrangendo .NET 8, MAUI, ASP.NET, Entity Framework e SQL Server. Meu próximo passo é aprofundar meus conhecimentos em Azure.
 <hr>
 
-## 📞 Contatos
+## Sobre mim
+- 🎓 Graduando em Ciência da Computação
+- 📚 Estudando .NET 8, ASP.NET
+
+
+<hr>
+## Contatos
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guferreirav/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoferreiravargens/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoferreiravargens@gmail.com)
 
 <hr>
 
-### ✍ Praticando desafios de programação:
+### Desafios de programação:
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gustavoferreira8)
 [![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/GuFerreiraV)
 
 <hr>
 
-### 🚀 Tecnologias e Ferramentas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/microsoft-sharepoint-2019.png" alt="SharePoint" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" alt="Power Automate" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</p>
+### Tecnologias e Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,git,idea,java,linux,py,mysql,p5js,postman,visualstudio,windows,sqlite)](https://skillicons.dev)
+
+
 
 <hr>
 
