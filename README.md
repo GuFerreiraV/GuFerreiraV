@@ -4,14 +4,13 @@ Tenho dedicado meus estudos intensivamente ao ecossistema Microsoft, abrangendo 
 
 ## Sobre mim
 - 🎓 Graduando em Ciência da Computação
-- 📚 Estudando .NET 8, ASP.NET
+- 📚 Especializando-se em .NET, ASP.NET, MAUI e Blazor
 
 
 <hr>
 
 ## Contatos
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guferreirav/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoferreiravargens/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoferreiravargens@gmail.com)
 
@@ -24,9 +23,7 @@ Tenho dedicado meus estudos intensivamente ao ecossistema Microsoft, abrangendo 
 <hr>
 
 ### Tecnologias e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,git,idea,java,linux,py,mysql,p5js,postman,visualstudio,windows,sqlite)](https://skillicons.dev)
-
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,git,idea,java,linux,py,mysql,postman,visualstudio,windows,sqlite)](https://skillicons.dev)
 
 <hr>
 
