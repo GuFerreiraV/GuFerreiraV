@@ -28,4 +28,3 @@ Tenho dedicado meus estudos intensivamente ao ecossistema Microsoft, abrangendo 
 <hr>
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuFerreiraV&hide=issues&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuFerreiraV&layout=compact&bg_color=00000000)
