@@ -1,5 +1,5 @@
 # 👨‍💻 Olá, me chamo Gustavo
-Tenho dedicado meus estudos intensivamente ao ecossistema Microsoft, abrangendo .NET 8, MAUI, ASP.NET, Entity Framework e SQL Server. Meu próximo passo é aprofundar meus conhecimentos em Azure.
+
 <hr>
 
 ## Sobre mim
@@ -10,19 +10,18 @@ Tenho dedicado meus estudos intensivamente ao ecossistema Microsoft, abrangendo 
 <hr>
 
 ## Contatos
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoferreiravargens/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoferreiravargens@gmail.com)
 
 <hr>
 
-### Desafios de programação:
+## Desafios de programação:
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gustavoferreira8)
 [![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/GuFerreiraV)
 
 <hr>
 
-### Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,git,idea,java,linux,py,mysql,postman,visualstudio,windows,sqlite)](https://skillicons.dev)
 
 <hr>
