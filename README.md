@@ -10,10 +10,10 @@
 <hr>
 
 ## Contatos
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoferreiravargens@gmail.com)
-[![My Contacts](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/gustavoferreiravargens/)
-
+[![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:gustavoferreiravargens@gmail.com)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/gustavoferreiravargens/)
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/guferreira/)
+[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,instagram)](mailto:gustavoferreiravargens@gmail.com,https://www.linkedin.com/in/gustavoferreiravargens/,https://www.instagram.com/guferreira/)
 <hr>
 
 ## Desafios de programação:
