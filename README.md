@@ -10,8 +10,9 @@
 <hr>
 
 ## Contatos
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoferreiravargens/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoferreiravargens@gmail.com)
+[![My Contacts](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/gustavoferreiravargens/)
 
 <hr>
 
@@ -22,7 +23,7 @@
 <hr>
 
 ## Tecnologias e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,git,idea,java,linux,py,mysql,postman,visualstudio,windows,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,java,py,cs,dotnet,visualstudio,vscode,windows,linux,powershell,mysql,sqlite)](https://skillicons.dev)
 
 <hr>
 
