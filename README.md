@@ -3,7 +3,7 @@
 <hr>
 
 ## Sobre mim
-Desenvolvedor .NET focado em aplicações webs, móveis e soluções locais de persistência de dados. Atualmente dedico minha carreira a construir apps móveis robustos e protótipos de alto valor para tomada de decisão, integração com APIs e otimização de fluxos de autenticação. Busco oportunidades para liderar entregas técnicas em equipes de produto e colaborar com times de engenharia que valorizem qualidade de código e experiências móveis responsivas.
+Sou um desenvolvedor .NET focado em aplicações webs, móveis, softwares desktops e soluções locais de persistência de dados. Atualmente dedico minha carreira a construir apps robustos e protótipos de alto valor para tomada de decisão, integração com APIs e otimização de fluxos de autenticação. Busco oportunidades para liderar entregas técnicas em equipes de produto e colaborar com times de engenharia que valorizem qualidade de código.
 
 <hr>
 
@@ -13,7 +13,7 @@ Desenvolvedor .NET focado em aplicações webs, móveis e soluções locais de p
 
 <hr>
 
->Se você é recrutador ou líder técnico e quer avaliar fit técnico, revisar códigos ou discutir vagas/sprints de curto prazo, envie uma mensagem direta pelo GitHub ou um email com o assunto "Oportunidade — Desenvolvedor .NET Mobile".
+>Se você é recrutador ou líder técnico e quer avaliar fit técnico, revisar códigos ou discutir vagas/sprints de curto prazo, envie uma mensagem para mim pelo GitHub ou um email com o assunto "Oportunidade — Desenvolvedor .NET Mobile".
 
 <hr>
 
@@ -22,4 +22,6 @@ Desenvolvedor .NET focado em aplicações webs, móveis e soluções locais de p
 
 <hr>
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuFerreiraV&hide=issues&bg_color=00000000)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuFerreiraV&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
