@@ -7,13 +7,13 @@
 <hr>
 
 ## ⬇️ Languages 
-[![My Skills](https://skillicons.dev/icons?i=python,dotnet,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs)](https://skillicons.dev)
 
 ## ⬇️ Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
 ## ⬇️ Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,dotnet,github,postman)](https://skillicons.dev)
 
 ## ⬇️ SO´s and Distro's
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
