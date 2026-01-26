@@ -22,4 +22,8 @@
 [![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:gustavoferreiravargens@gmail.com)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/gustavoferreiravargens/)
 
+<br>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/guferreirav?cardType=level&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
 >If you are a recruiter or technical lead and want to assess technical fit, review code, or discuss short-term roles/sprints, please send me a message on GitHub or an email with the subject "Opportunity — .NET Developer".
