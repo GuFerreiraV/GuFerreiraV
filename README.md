@@ -24,6 +24,10 @@
 
 <br>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/guferreirav?cardType=level&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+<a href="https://github.com/GuFerreiraV/convoychat">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=GuFerreiraV&show_icons=true&theme=dark" /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuFerreiraV&langs_count10&card_width=520&theme=dark" />
+</a>
+
+<hr>
 
 >If you are a recruiter or technical lead and want to assess technical fit, review code, or discuss short-term roles/sprints, please send me a message on GitHub or an email with the subject "Opportunity — .NET Developer".
