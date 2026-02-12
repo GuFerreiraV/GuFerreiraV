@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,mysql,sqlite)](https://skillicons.dev)
 
 ### DevOps and Infrastructure
-[![Skills](https://skills.syvixor.com/api/icons?i=linux,git,windows,popos,postman)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=linux,arch,popos,git,windows,postman)](https://github.com/syvixor/skills-icons)
 
 <hr>
 
