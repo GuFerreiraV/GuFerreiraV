@@ -13,7 +13,7 @@
 ## 🔨 Stacks
 
 ### Front-End
-[![Skills](https://skills.syvixor.com/api/icons?i=js,blazor,bootstrap,html&theme=light)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=js,blazor,bootstrap&theme=light)](https://github.com/syvixor/skills-icons)
 
 
 ### Back-End and Databases
