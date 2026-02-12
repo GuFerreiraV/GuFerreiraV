@@ -13,14 +13,14 @@
 ## 🔨 Stacks
 
 ### Front-End
-[![Skills](https://skills.syvixor.com/api/icons?i=js,blazor,bootstrap,html)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=js,blazor,bootstrap,html&theme=light)](https://github.com/syvixor/skills-icons)
 
 
 ### Back-End and Databases
 [![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,mysql,sqlite)](https://skillicons.dev)
 
 ### DevOps and Infrastructure
-[![Skills](https://skills.syvixor.com/api/icons?i=linux,arch,popos,git,windows,postman)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skillicons.dev/icons?i=linux,arch,git,windows,postman&theme=light)](https://github.com/syvixor/skills-icons)
 
 <hr>
 
