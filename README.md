@@ -11,22 +11,23 @@
 
 ## Stacks
 
-### Front-End
-[![Skills](https://skills.syvixor.com/api/icons?i=js,blazor,bootstrap&theme=light)](https://github.com/syvixor/skills-icons)
+## Front-End
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=tailwindcss,reactjs,typescript,bootstrap,blazor)
 
-
-### Back-End and Databases
+## Back-End and Databases
 [![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,mysql,sqlite)](https://skillicons.dev)
 
-### DevOps and Infrastructure
-[![Skills](https://skillicons.dev/icons?i=linux,arch,git,windows,postman&theme=light)](https://github.com/syvixor/skills-icons)
+## OS & Distro
+[![Skills](https://skillicons.dev/icons?i=linux,arch,ubuntu,windows&theme=light)](https://github.com/syvixor/skills-icons)
 
+## Tools & Infra
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=trello,postman,git,powershell,googleantigravity,docker,githubactions)
 
 ## Contact
 [![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:gustavoferreiravargens@gmail.com)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/gustavoferreiravargens/)
 
-
+<br/>
 
 | ![GuFerreiraV Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuFerreiraV&mode-daily&theme=github_dark&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuFerreiraV&hide=Html&theme=github_dark&title_color=00d4ff&text_color=8892b0) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuFerreiraV&theme=github_dark&title_color=00d4ff&text_color=8892b0) |
 | :-: | :-: | :-: |
