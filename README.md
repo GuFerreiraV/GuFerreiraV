@@ -43,7 +43,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=pong-game&theme=dark" alt="Pong Game" /> 
 </a>
 <a href="https://github.com/GuFerreiraV/free-way-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=free-way-game&theme=dark" alt="Book Lens" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=free-way-game&theme=dark" alt="Free Way Game" /> 
+</a>
+<a href="https://github.com/GuFerreiraV/fipe-api-http-rest">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=fipe-api-http-rest&theme=dark" alt="Fipe API" /> 
 </a>
 <a href="https://github.com/GuFerreiraV/book-lens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=book-lens&theme=dark" alt="Book Lens" /> 
