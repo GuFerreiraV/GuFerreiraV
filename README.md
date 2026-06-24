@@ -80,6 +80,24 @@
 </tr>
 </table>
 
+## Projetos Em Andamento
+<table border="0" cellpadding="0" cellspacing="0"> 
+<tr>  
+  <a href="https://github.com/GuFerreiraV/microAPI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=microAPI&theme=dark" alt="Telegram Bot Furia" /> 
+  </a>
+</tr>
+</table>
+
+## Projetos Abandonados (um dia eu volto)
+<table border="0" cellpadding="0" cellspacing="0"> 
+<tr>  
+  <a href="https://github.com/GuFerreiraV/batcher-rename">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=batcher-rename&theme=dark&cache_seconds=1000" alt="Batcher Rename" /> 
+  </a>
+</tr>
+</table>
+
 <br/>
 
 
