@@ -30,27 +30,51 @@
 <br/>
 
 ## Projetos Concluídos
-<a href="https://github.com/GuFerreiraV/snake-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=snake-game&theme=dark" alt="Snake Game" /> 
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <a href="https://github.com/GuFerreiraV/snake-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=snake-game&theme=dark" alt="Snake Game" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/GuFerreiraV/gerador-etiqueta-zebra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=gerador-etiqueta-zebra&theme=dark" alt="Gerador de Etiqueta Zebra" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/GuFerreiraV/code-corrector-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=code-corrector-ai&theme=dark" alt="Code Corrector AI" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/GuFerreiraV/pong-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=pong-game&theme=dark" alt="Pong Game" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/GuFerreiraV/my-expenses"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=my-expenses&theme=dark" alt="My Expenses" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/GuFerreiraV/free-way-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=free-way-game&theme=dark" alt="Free Way Game" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/GuFerreiraV/book-lens"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=book-lens&theme=dark" alt="Book Lens" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/GuFerreiraV/fipe-api-http-rest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=fipe-api-http-rest&theme=dark" alt="Fipe API" /></a>
+    </td>
+  </tr>
+</table>
+
+## Projetos Que Precisam de Melhorias
+<a href="https://github.com/GuFerreiraV/telegram-bot-furia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=telegram-bot-furia&theme=dark" alt="Fipe API" /> 
 </a>
-<a href="https://github.com/GuFerreiraV/gerador-etiqueta-zebra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=gerador-etiqueta-zebra&theme=dark" alt="Gerador de Etiqueta Zebra" /> 
+
+## Projetos Abandonados
+<a href="https://github.com/GuFerreiraV/batcher-rename">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=batcher-rename&theme=dark" alt="Fipe API" /> 
 </a>
-<a href="https://github.com/GuFerreiraV/code-corrector-ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=code-corrector-ai&theme=dark" alt="Code Corrector AI" /> 
-</a>
-<a href="https://github.com/GuFerreiraV/pong-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=pong-game&theme=dark" alt="Pong Game" /> 
-</a>
-<a href="https://github.com/GuFerreiraV/free-way-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=free-way-game&theme=dark" alt="Free Way Game" /> 
-</a>
-<a href="https://github.com/GuFerreiraV/fipe-api-http-rest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=fipe-api-http-rest&theme=dark" alt="Fipe API" /> 
-</a>
-<a href="https://github.com/GuFerreiraV/book-lens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=book-lens&theme=dark" alt="Book Lens" /> 
-</a>
+
 
 
 <br/>
