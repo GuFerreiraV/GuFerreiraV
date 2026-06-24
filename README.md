@@ -73,11 +73,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=telegram-bot-furia&theme=dark" alt="Telegram Bot Furia" /> 
   </a>
 </tr>
-<tr>  
-  <a href="https://github.com/GuFerreiraV/batcher-rename">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=batcher-rename&theme=dark&cache_seconds=1000" alt="Batcher Rename" /> 
-  </a>
-</tr>
 </table>
 
 ## Projetos Em Andamento
