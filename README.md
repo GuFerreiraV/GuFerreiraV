@@ -80,11 +80,8 @@
 </tr>
 </table>
 
-
-
-
 <br/>
-<br/>
+
 
 | ![GuFerreiraV Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuFerreiraV&mode-daily&theme=github_dark&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuFerreiraV&hide=Html&theme=github_dark&title_color=00d4ff&text_color=8892b0) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuFerreiraV&theme=github_dark&title_color=00d4ff&text_color=8892b0) |
 | :-: | :-: | :-: |
