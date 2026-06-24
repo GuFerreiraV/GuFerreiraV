@@ -65,21 +65,20 @@
   </tr>
 </table>
 
-## Projetos Que Precisam de Melhorias
-
-<table border="0" cellpadding="0" cellspacing="0"> 
-<tr>  
-  <a href="https://github.com/GuFerreiraV/telegram-bot-furia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=telegram-bot-furia&theme=dark" alt="Telegram Bot Furia" /> 
-  </a>
-</tr>
-</table>
-
 ## Projetos Em Andamento
 <table border="0" cellpadding="0" cellspacing="0"> 
 <tr>  
   <a href="https://github.com/GuFerreiraV/microAPI">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=microAPI&theme=dark" alt="Telegram Bot Furia" /> 
+  </a>
+</tr>
+</table>
+
+## Projetos Que Precisam de Melhorias
+<table border="0" cellpadding="0" cellspacing="0"> 
+<tr>  
+  <a href="https://github.com/GuFerreiraV/telegram-bot-furia">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=telegram-bot-furia&theme=dark" alt="Telegram Bot Furia" /> 
   </a>
 </tr>
 </table>
