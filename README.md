@@ -39,7 +39,7 @@
 <a href="https://github.com/GuFerreiraV/code-corrector-ai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=code-corrector-ai&theme=dark" alt="Code Corrector AI" /> 
 </a>
-<a href="https://github.com/GuFerreiraV/book-lens">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=book-lens&theme=dark" alt="Book Lens" /> 
 </a>
 <a href="https://github.com/GuFerreiraV/pong-game">
