@@ -32,6 +32,13 @@
 
 >If you are a recruiter or technical lead and want to assess technical fit, review code, or discuss short-term roles/sprints, please send me a message on GitHub or an email with the subject "Opportunity — .NET Developer".
 
+| ![GuFerreiraV Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuFerreiraV&mode-daily&theme=github_dark&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuFerreiraV&hide=Html&theme=github_dark&title_color=00d4ff&text_color=8892b0) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuFerreiraV&theme=github_dark&title_color=00d4ff&text_color=8892b0) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuFerreiraV&theme=github_dark&title_color=00d4ff) | ![](https://streak-stats.demolab.com?user=GuFerreiraV&locale=en&mode=daily&theme=tokyonight&background=0a1128&ring=00d4ff&fire=00ffff&currStreakNum=00d4ff&sideLabels=8892b0) |
+| :-: | :-: |
+
+
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
