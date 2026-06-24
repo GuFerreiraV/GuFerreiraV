@@ -10,7 +10,7 @@
 
 <hr>
 
-## 🔨 Stacks
+## Stacks
 
 ### Front-End
 [![Skills](https://skills.syvixor.com/api/icons?i=js,blazor,bootstrap&theme=light)](https://github.com/syvixor/skills-icons)
@@ -24,7 +24,7 @@
 
 <hr>
 
-## 📲 Contact
+##Contact
 [![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:gustavoferreiravargens@gmail.com)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/gustavoferreiravargens/)
 
