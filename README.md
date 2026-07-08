@@ -33,34 +33,34 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <a href="https://github.com/GuFerreiraV/snake-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=snake-game&theme=dark" alt="Snake Game" /></a>
+      <a href="https://github.com/GuFerreiraV/snake-game"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=snake-game&theme=dark" alt="Snake Game" /></a>
     </td>
     <td>
-      <a href="https://github.com/GuFerreiraV/gerador-etiqueta-zebra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=gerador-etiqueta-zebra&theme=dark" alt="Gerador de Etiqueta Zebra" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/GuFerreiraV/code-corrector-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=code-corrector-ai&theme=dark&cache_seconds=1000" alt="Code Corrector AI" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/GuFerreiraV/pong-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=pong-game&theme=dark&cache_seconds=1000" alt="Pong Game" /></a>
+      <a href="https://github.com/GuFerreiraV/gerador-etiqueta-zebra"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=gerador-etiqueta-zebra&theme=dark" alt="Gerador de Etiqueta Zebra" /></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/GuFerreiraV/my-expenses"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=my-expenses&theme=dark&cache_seconds=1000" alt="My Expenses" /></a>
+      <a href="https://github.com/GuFerreiraV/code-corrector-ai"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=code-corrector-ai&theme=dark&cache_seconds=1000" alt="Code Corrector AI" /></a>
     </td>
     <td>
-      <a href="https://github.com/GuFerreiraV/free-way-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=free-way-game&theme=dark&cache_seconds=1000" alt="Free Way Game" /></a>
+      <a href="https://github.com/GuFerreiraV/pong-game"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=pong-game&theme=dark&cache_seconds=1000" alt="Pong Game" /></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/GuFerreiraV/book-lens"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=book-lens&theme=dark&cache_seconds=1000" alt="Book Lens" /></a>
+      <a href="https://github.com/GuFerreiraV/my-expenses"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=my-expenses&theme=dark&cache_seconds=1000" alt="My Expenses" /></a>
     </td>
     <td>
-      <a href="https://github.com/GuFerreiraV/fipe-api-http-rest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=fipe-api-http-rest&theme=dark&cache_seconds=1000" alt="Fipe API" /></a>
+      <a href="https://github.com/GuFerreiraV/free-way-game"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=free-way-game&theme=dark&cache_seconds=1000" alt="Free Way Game" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/GuFerreiraV/book-lens"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=book-lens&theme=dark&cache_seconds=1000" alt="Book Lens" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/GuFerreiraV/fipe-api-http-rest"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=fipe-api-http-rest&theme=dark&cache_seconds=1000" alt="Fipe API" /></a>
     </td>
   </tr>
 </table>
@@ -69,7 +69,7 @@
 <table border="0" cellpadding="0" cellspacing="0"> 
 <tr>  
   <a href="https://github.com/GuFerreiraV/microAPI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=microAPI&theme=dark" alt="Telegram Bot Furia" /> 
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=microAPI&theme=dark" alt="Telegram Bot Furia" /> 
   </a>
 </tr>
 </table>
@@ -78,7 +78,7 @@
 <table border="0" cellpadding="0" cellspacing="0"> 
 <tr>  
   <a href="https://github.com/GuFerreiraV/telegram-bot-furia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=telegram-bot-furia&theme=dark" alt="Telegram Bot Furia" /> 
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=telegram-bot-furia&theme=dark" alt="Telegram Bot Furia" /> 
   </a>
 </tr>
 </table>
@@ -87,7 +87,7 @@
 <table border="0" cellpadding="0" cellspacing="0"> 
 <tr>  
   <a href="https://github.com/GuFerreiraV/batcher-rename">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuFerreiraV&repo=batcher-rename&theme=dark&cache_seconds=1000" alt="Batcher Rename" /> 
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=batcher-rename&theme=dark&cache_seconds=1000" alt="Batcher Rename" /> 
   </a>
 </tr>
 </table>
