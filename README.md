@@ -52,7 +52,7 @@
       <a href="https://github.com/GuFerreiraV/my-expenses"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=my-expenses&theme=dark&cache_seconds=1000" alt="My Expenses" /></a>
     </td>
     <td>
-      <a href="https://github.com/GuFerreiraV/free-way-game"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=free-way-game&theme=dark&cache_seconds=1000" alt="Free Way Game" /></a>
+      <a href="https://github.com/GuFerreiraV/telegram-bot-furia"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=telegram-bot-furia&theme=dark&cache_seconds=1000" alt="Free Way Game" /></a>
     </td>
   </tr>
   <tr>
@@ -63,24 +63,7 @@
       <a href="https://github.com/GuFerreiraV/fipe-api-http-rest"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=fipe-api-http-rest&theme=dark&cache_seconds=1000" alt="Fipe API" /></a>
     </td>
   </tr>
-</table>
-
-## Projetos Em Andamento
-<table border="0" cellpadding="0" cellspacing="0"> 
-<tr>  
-  <a href="https://github.com/GuFerreiraV/microAPI">
-    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=microAPI&theme=dark" alt="Telegram Bot Furia" /> 
-  </a>
-</tr>
-</table>
-
-## Projetos Que Precisam de Melhorias
-<table border="0" cellpadding="0" cellspacing="0"> 
-<tr>  
-  <a href="https://github.com/GuFerreiraV/telegram-bot-furia">
-    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=telegram-bot-furia&theme=dark" alt="Telegram Bot Furia" /> 
-  </a>
-</tr>
+  
 </table>
 
 ## Projetos Abandonados (um dia eu volto)
@@ -88,6 +71,11 @@
 <tr>  
   <a href="https://github.com/GuFerreiraV/batcher-rename">
     <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=batcher-rename&theme=dark&cache_seconds=1000" alt="Batcher Rename" /> 
+  </a>
+</tr>
+<tr>  
+  <a href="https://github.com/GuFerreiraV/microAPI">
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=microAPI&theme=dark" alt="Telegram Bot Furia" /> 
   </a>
 </tr>
 </table>
