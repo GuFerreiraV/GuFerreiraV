@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=32&pause=1000&color=F7F7F7&center=true&width=435&lines=👋Hi%2C+I'm+Gustavo!;Welcome+to+my+profile;I'm+.NET+Developer+😎.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=32&pause=1000&color=F7F7F7&center=true&width=435&lines=👋Hi%2C+I'm+Gustavo!;Welcome+to+my+profile;I'm+.NET+Developer.)](https://git.io/typing-svg)
 
 .NET developer focused on web applications, mobile applications, desktop software, and on-premise data persistence solutions. Currently, I dedicate my career to building robust apps and high-value prototypes for decision-making, API integration, and authentication flow optimization. I seek opportunities to lead technical deliverables in product teams and collaborate with engineering teams that value code quality.
 
@@ -63,21 +63,14 @@
       <a href="https://github.com/GuFerreiraV/fipe-api-http-rest"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=fipe-api-http-rest&theme=dark&cache_seconds=1000" alt="Fipe API" /></a>
     </td>
   </tr>
-  
-</table>
-
-## Projetos Abandonados (um dia eu volto)
-<table border="0" cellpadding="0" cellspacing="0"> 
-<tr>  
-  <a href="https://github.com/GuFerreiraV/batcher-rename">
-    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=batcher-rename&theme=dark&cache_seconds=1000" alt="Batcher Rename" /> 
-  </a>
-</tr>
-<tr>  
+  <tr>  
+    <td>    
   <a href="https://github.com/GuFerreiraV/microAPI">
     <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=microAPI&theme=dark" alt="Telegram Bot Furia" /> 
   </a>
+    </td>
 </tr>
+  
 </table>
 
 <br/>
