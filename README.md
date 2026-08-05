@@ -29,7 +29,7 @@
 
 <br/>
 
-## Projetos Concluídos
+## Done Projects
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
@@ -70,7 +70,6 @@
   </a>
     </td>
 </tr>
-  
 </table>
 
 <br/>
