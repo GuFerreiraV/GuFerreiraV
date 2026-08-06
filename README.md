@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,mysql,sqlite)](https://skillicons.dev)
 
 ## OS & Distro
-[![Skills](https://skillicons.dev/icons?i=linux,arch,ubuntu,windows&theme=light)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skillicons.dev/icons?i=linux,windows&theme=light)](https://github.com/syvixor/skills-icons)
 
 ## Tools & Infra
 ![Skills](https://skills.syvixor.com/api/icons?perline=15&i=trello,postman,git,powershell,googleantigravity,docker,githubactions)
