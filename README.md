@@ -17,7 +17,7 @@
 ## Back-End and Databases
 [![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,mysql,sqlite)](https://skillicons.dev)
 
-## OS & Distro
+## OS
 [![Skills](https://skillicons.dev/icons?i=linux,windows&theme=light)](https://github.com/syvixor/skills-icons)
 
 ## Tools & Infra
