@@ -36,7 +36,7 @@
       <a href="https://github.com/GuFerreiraV/gerador-etiqueta-zebra"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=gerador-etiqueta-zebra&theme=dark" alt="Gerador de Etiqueta Zebra" /></a>
     </td>
   <td>
-      <a href="https://github.com/GuFerreiraV/book-lens"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=book-lens&theme=dark&cache_seconds=1000" alt="Book Lens" /></a>
+      <a href="https://github.com/GuFerreiraV/cofrinho"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=cofrinho&theme=dark&cache_seconds=1000" alt="Book Lens" /></a>
     </td>
   </tr>
   <tr>
