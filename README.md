@@ -12,10 +12,13 @@
 ## Stacks
 
 ## Front-End
-![Skills](https://skills.syvixor.com/api/icons?perline=15&i=tailwindcss,reactjs,bootstrap,blazor)
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=tailwindcss,reactjs,bootstrap)
 
-## Back-End and Databases
-[![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,mysql,sqlite)](https://skillicons.dev)
+## Back-End 
+[![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet)](https://skillicons.dev)
+
+## Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,sqlserver)](https://skillicons.dev)
 
 ## OS
 [![Skills](https://skillicons.dev/icons?i=linux,windows&theme=light)](https://github.com/syvixor/skills-icons)
