@@ -15,16 +15,19 @@
 ![Skills](https://skills.syvixor.com/api/icons?perline=15&i=tailwindcss,reactjs,bootstrap)
 
 ## Back-End 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
 
 ## Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,sqlserver)](https://skillicons.dev)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=mysql,sqlite&perline=12&radius=40)
 
-## OS
-[![Skills](https://skillicons.dev/icons?i=linux,windows&theme=light)](https://github.com/syvixor/skills-icons)
+## Distributions
+![Skill Icons](https://skills.syvixor.com/api/icons?i=cachyos,linuxmint&perline=12&radius=40)
+
+## Script tools
+![Skill Icons](https://skills.syvixor.com/api/icons?i=python,powershell&perline=12&radius=40)
 
 ## Tools & Infra
-![Skills](https://skills.syvixor.com/api/icons?perline=15&i=trello,postman,git,powershell,googleantigravity,docker,githubactions)
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=trello,bruno,git,claudecode,docker,githubactions)
 
 ## Contact
 [![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:gustavoferreiravargens@gmail.com)
