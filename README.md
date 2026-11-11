@@ -35,28 +35,6 @@
 
 <br/>
 
-## Done Projects
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <a href="https://github.com/GuFerreiraV/gerador-etiqueta-zebra"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=gerador-etiqueta-zebra&theme=dark" alt="Gerador de Etiqueta Zebra" /></a>
-    </td>
-  <td>
-      <a href="https://github.com/GuFerreiraV/cofrinho"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=cofrinho&theme=dark&cache_seconds=1000" alt="Book Lens" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/GuFerreiraV/my-expenses"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=my-expenses&theme=dark&cache_seconds=1000" alt="My Expenses" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/GuFerreiraV/telegram-bot-furia"><img src="https://github-stats-extended.vercel.app/api/pin/?username=GuFerreiraV&repo=telegram-bot-furia&theme=dark&cache_seconds=1000" alt="Free Way Game" /></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 
 | ![GuFerreiraV Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuFerreiraV&mode-daily&theme=github_dark&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuFerreiraV&hide=Html&theme=github_dark&title_color=00d4ff&text_color=8892b0) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuFerreiraV&theme=github_dark&title_color=00d4ff&text_color=8892b0) |
 | :-: | :-: | :-: |
